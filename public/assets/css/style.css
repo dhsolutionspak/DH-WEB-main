@@ -6692,7 +6692,7 @@ a.icon-socials:hover {
 
 .address-icon {
   color: #FF3131;
-  background: url(../imgs/template/icons/phone.svg) no-repeat left center;
+  background: url(../imgs/template/icons/address-icon.svg) no-repeat left center;
   padding: 0px 10px 0px 35px;
   display: inline-block;
   margin-right: 12px;
@@ -6700,7 +6700,7 @@ a.icon-socials:hover {
 
 .phone-icon {
   color: #FF3131;
-  background: url(../imgs/template/icons/phone.svg) no-repeat left center;
+  background: url(../imgs/template/icons/phone-icon.svg) no-repeat left center;
   padding: 0px 10px 0px 35px;
   display: inline-block;
   margin-right: 12px;
@@ -6708,7 +6708,7 @@ a.icon-socials:hover {
 
 .email-icon {
   color: #FF3131;
-  background: url(../imgs/template/icons/email.svg) no-repeat left center;
+  background: url(../imgs/template/icons/email-icon.svg) no-repeat left center;
   padding: 0px 10px 0px 35px;
   display: inline-block;
 }
@@ -7029,15 +7029,19 @@ a.icon-socials:hover {
 }
 .item-preparing .item-preparing-left.img-2 {
   background: url(../imgs/page/homepage3/img-preparing-2.png) no-repeat center;
+  background-size: cover;
 }
 .item-preparing .item-preparing-left.img-3 {
   background: url(../imgs/page/homepage3/img-preparing-3.png) no-repeat center;
+  background-size: cover;
 }
 .item-preparing .item-preparing-left.img-4 {
   background: url(../imgs/page/homepage3/img-preparing-4.png) no-repeat center;
+  background-size: cover;
 }
 .item-preparing .item-preparing-left.img-5 {
   background: url(../imgs/page/homepage3/img-preparing-5.png) no-repeat center;
+  background-size: cover;
 }
 .item-preparing .item-preparing-right {
   width: 55%;
@@ -7758,8 +7762,8 @@ a.icon-socials:hover {
 
 .box-faqs-inner {
   border-radius: 16px;
-  background-color: #ECEEF2;
-  padding: 55px 0px 104px 0px;
+  background-color: #FF3131;
+  padding: 55px 100px 104px 100px;
 }
 
 .box-faqs-inner-4 {
