@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react"
 const swiperOptions = {
     modules: [Autoplay, Pagination, Navigation],
     spaceBetween: 30,
-    slidesPerView: 4,
+    slidesPerView: 2,
     spaceBetween: 30,
     slidesPerGroup: 2,
     loop: true,
