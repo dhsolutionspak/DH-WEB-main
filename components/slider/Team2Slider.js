@@ -61,46 +61,6 @@ export default function Team2Slider() {
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="card-team-2">
-                            <div className="card-image"><img src="/assets/imgs/page/homepage2/team3.png" alt="Nivia" /></div>
-                            <div className="card-info"><Link href="#">
-                                <h6>Sayyam Alam</h6>
-                            </Link>
-                                <p className="text-lg neutral-600">CFO , Country Head UAE</p>
-                            </div>
-                        </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="card-team-2">
-                            <div className="card-image"><img src="/assets/imgs/page/homepage2/team3.png" alt="Nivia" /></div>
-                            <div className="card-info"><Link href="#">
-                                <h6>Ganero R.</h6>
-                            </Link>
-                                <p className="text-lg neutral-600">Country Head USA</p>
-                            </div>
-                        </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="card-team-2">
-                            <div className="card-image"><img src="/assets/imgs/page/homepage2/team3.png" alt="Nivia" /></div>
-                            <div className="card-info"><Link href="#">
-                                <h6>Jawad Muhieddine</h6>
-                            </Link>
-                                <p className="text-lg neutral-600">Head of MENA</p>
-                            </div>
-                        </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="card-team-2">
-                            <div className="card-image"><img src="/assets/imgs/page/homepage2/team3.png" alt="Nivia" /></div>
-                            <div className="card-info"><Link href="#">
-                                <h6>Oliver J.</h6>
-                            </Link>
-                                <p className="text-lg neutral-600">Country Head Canada</p>
-                            </div>
-                        </div>
-                    </SwiperSlide>
                 </Swiper>
             </div>
             <div className="box-button-slider box-button-slider-team">
