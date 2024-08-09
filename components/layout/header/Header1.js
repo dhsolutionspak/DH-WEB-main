@@ -30,7 +30,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, topBar
                                     <ul className="main-menu">
                                         <li className="has-children"><Link className="active" href="/index-3">Home</Link>
                                         </li>
-                                        <li className="has-children"><Link href="/comming-soon">About</Link></li>
+                                        <li className="has-children"><Link href="/about">About</Link></li>
                                         <li className="has-children"><Link href="/service">Services</Link>
                                         <ul className="sub-menu">
                                                 <li><Link href="/comming-soon">Custom Software</Link></li>
