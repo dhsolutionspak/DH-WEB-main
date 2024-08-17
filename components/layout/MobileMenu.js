@@ -119,7 +119,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                             <div className="mobile-social-icon mb-50">
                                 <h6 className="mb-25">Follow Us</h6><Link className="icon-socials icon-facebook" href="#"><img alt="Nivia" src="/assets/imgs/template/icons/fb.svg" /></Link><Link className="icon-socials icon-instagram" href="#"><img alt="Nivia" src="/assets/imgs/template/icons/in.svg" /></Link><Link className="icon-socials icon-twitter" href="#"><img alt="Nivia" src="/assets/imgs/template/icons/tw.svg" /></Link><Link className="icon-socials icon-be" href="#"><img alt="Nivia" src="/assets/imgs/template/icons/be.svg" /></Link>
                             </div>
-                            <div className="site-copyright">Copyright 2023 © Nivia.<br />Designed by AliThemes.</div>
+                            <div className="site-copyright">Copyright 2024 © DH Solutions LLC <br />Developed by Team @ DH Solutions.</div>
                         </div>
                     </div>
                 </div>
