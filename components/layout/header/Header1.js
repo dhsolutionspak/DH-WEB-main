@@ -12,7 +12,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, topBar
                                 <div className="box-top-bar-left"><span className="address-icon text-md">Sheridan Wyoming , USA</span>
                                 </div>
                                 <div className="box-top-bar-right"><a className="phone-icon text-md" href="tel:(262) 555-0131">(317)
-                                    868-6123</a><a className="email-icon text-md" href="mailto:contact@nivia.com">hello@dhsol.net</a></div>
+                                    868-6123</a><a className="email-icon text-md" href="mailto:hello@dhsol.net">hello@dhsol.net</a></div>
                             </div>
                         </div>
                     </div>
@@ -30,8 +30,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, topBar
                                     <ul className="main-menu">
                                         <li className="has-children"><Link className="active" href="/index-3">Home</Link>
                                         </li>
-                                        <li className="has-children"><Link href="/about">About</Link></li>
-                                        <li className="has-children"><Link href="/service">Services</Link>
+                                        <li className="has-children"><Link href="/comming-soon">About</Link></li>
+                                        <li className="has-children"><Link href="/comming-soon">Services</Link>
                                         <ul className="sub-menu">
                                                 <li><Link href="/comming-soon">Custom Software</Link></li>
                                                 <li><Link href="/comming-soon">AI/ML</Link></li>
