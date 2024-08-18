@@ -7,10 +7,20 @@ import NewsSlider from '@/components/slider/NewsSlider'
 import OfficeSlider from '@/components/slider/OfficeSlider'
 import Team2Slider from '@/components/slider/Team2Slider'
 import Link from 'next/link'
+import FullPageVideo from '../components/FullPageVideo';
 export default function About() {
 
     return (
         <>
+        <Head>
+        <title>My Video Page</title>
+        <meta name="description" content="A full-page video section with buttons and an arrow." />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+
+      <main>
+        <FullPageVideo />
+      </main>
             <ResizeContainer />
             <Layout headerStyle={1} footerStyle={1} headerCls="header-style-2 header-style-4" >
                 <div>
